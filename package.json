@@ -1,0 +1,14 @@
+{
+  "name": "kin-takehome",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A take home assignment for Kin Foundation",
+  "main": "kinApp.js",
+  "author": "JM",
+  "license": "MIT",
+  "dependencies": {
+    "@kinecosystem/kin-sdk-v2": "^0.5.0",
+    "bs58": "^4.0.1",
+    "express": "^4.17.1"
+  }
+}
